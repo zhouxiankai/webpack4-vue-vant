@@ -1,7 +1,7 @@
 <template>
     <div class='hello-index'>
         <div class="aa">{{message}}</div>
-        <van-button type="primary" @click="showMessage">点我</van-button>
+        <van-button type="primary" @click="showMessage">点我11</van-button>
     </div>
 </template>
 

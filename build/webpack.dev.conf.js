@@ -11,7 +11,7 @@ const webpackDev = merge(webpackBase,{
     mode:'development',
     devServer:{
         host:'localhost',
-        port:8001,
+        port:8002,
         compress:true,
         hot:true,
         clientLogLevel: 'warning', //能隐藏热更替 控制台的进度
